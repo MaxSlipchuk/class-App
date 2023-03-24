@@ -41,3 +41,4 @@ my_app.path_to_img('img\\1.jpg')
 my_app.show_screen()
 
 
+
